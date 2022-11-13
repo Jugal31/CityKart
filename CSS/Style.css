@@ -1,0 +1,28 @@
+
+#head_nav{
+    background-color: whitesmoke;
+    height: 50px;
+    
+}
+#logo
+{
+    height: 50px;
+    width: 80px;
+}
+#list   
+{
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.list
+{
+    padding: 8px;
+}
+.slider-item
+{
+    height: 26rem;
+}
+.thumb
+{
+       box-shadow: 0 0 5px wheat;
+}
